@@ -13,7 +13,7 @@
 		</div>
 		<div>
 			<label for="prenom">Prénom :</label>
-			<input id="prénom" placeholder="Jean-michel" type="text" name="prénom">
+			<input id="prenom" placeholder="Jean-michel" type="text" name="prenom">
 		</div>
 		<div>
 			<label for="age">Âge :</label>
